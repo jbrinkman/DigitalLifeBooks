@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\DigitalLifeBooks.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\DigitalLifeBooks.pdb
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\DigitalLifeBooks.xml
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\obj\Debug\DigitalLifeBooks.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\obj\Debug\DigitalLifeBooks.pdb

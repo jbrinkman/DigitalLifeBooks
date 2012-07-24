@@ -1,0 +1,14 @@
+Key: aa5c73db9627cbeccd2cf6e91c9aee27
+secret: 60123cea8dba2e595833e2ac1c466dec9f50e99bcab82e40975bf9ab2506cb02
+
+
+
+Board Members:
+
+Card:
+	Name
+	Description
+	Checklist,tasks
+	labels
+	Comments only
+

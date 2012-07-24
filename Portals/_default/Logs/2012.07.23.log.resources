@@ -1,0 +1,774 @@
+2012-07-23 16:00:16,828 [DeniseLeeson-PC][Thread:8][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:02:05,158 [DeniseLeeson-PC][Thread:9][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:02:21,891 [DeniseLeeson-PC][Thread:6][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:14:43,132 [DeniseLeeson-PC][Thread:40][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:25:20,348 [DeniseLeeson-PC][Thread:66][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:25:58,087 [DeniseLeeson-PC][Thread:79][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 16:59:22,561 [DeniseLeeson-PC][Thread:12][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:06:28,802 [DeniseLeeson-PC][Thread:30][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:07:01,803 [DeniseLeeson-PC][Thread:30][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:08:08,290 [DeniseLeeson-PC][Thread:9][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:17:40,333 [DeniseLeeson-PC][Thread:37][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:17:40,685 [DeniseLeeson-PC][Thread:31][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 110
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:18:11,490 [DeniseLeeson-PC][Thread:51][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:18:12,781 [DeniseLeeson-PC][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 110
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:19:12,236 [DeniseLeeson-PC][Thread:46][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:19:13,563 [DeniseLeeson-PC][Thread:40][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 104
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 21
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:22:25,769 [DeniseLeeson-PC][Thread:35][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:22:30,718 [DeniseLeeson-PC][Thread:14][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 104
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 21
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:22:41,548 [DeniseLeeson-PC][Thread:5][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:22:47,526 [DeniseLeeson-PC][Thread:41][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 104
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 21
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:23:23,473 [DeniseLeeson-PC][Thread:35][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:23:48,065 [DeniseLeeson-PC][Thread:42][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 104
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 21
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:35:46,189 [DeniseLeeson-PC][Thread:21][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:35:46,663 [DeniseLeeson-PC][Thread:43][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.ArgumentException: Column 'middleinitial' does not belong to table dtRelationships.
+   at System.Data.DataRow.get_Item(String columnName)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.<GetAllChildren>b__7(DataRow item) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 105
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetAllChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 104
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 21
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildren() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 60
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:39:56,807 [DeniseLeeson-PC][Thread:57][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:40:03,662 [DeniseLeeson-PC][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:40:06,836 [DeniseLeeson-PC][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:40:19,293 [DeniseLeeson-PC][Thread:60][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:43:02,454 [DeniseLeeson-PC][Thread:56][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:43:02,613 [DeniseLeeson-PC][Thread:56][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:43:02,631 [DeniseLeeson-PC][Thread:56][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Object+reference+not+set+to+an+instance+of+an+object.&content=0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:43:09,849 [DeniseLeeson-PC][Thread:20][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:43:09,977 [DeniseLeeson-PC][Thread:20][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:43:09,983 [DeniseLeeson-PC][Thread:20][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Object+reference+not+set+to+an+instance+of+an+object.&content=0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:43:30,938 [DeniseLeeson-PC][Thread:20][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 134
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:43:31,057 [DeniseLeeson-PC][Thread:20][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:43:31,062 [DeniseLeeson-PC][Thread:20][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Object+reference+not+set+to+an+instance+of+an+object.&content=0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.Page_Load(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 82
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 17:54:15,593 [DeniseLeeson-PC][Thread:82][ERROR] DotNetNuke.UI.Modules.ModuleHost - Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'.
+System.Web.HttpParseException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'. ---> System.Web.HttpParseException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'. ---> System.Web.HttpException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.TemplateControl.LoadControl(VirtualPath virtualPath)
+   at DotNetNuke.UI.Modules.WebFormsModuleControlFactory.CreateModuleControl(TemplateControl containerControl, ModuleInfo moduleConfiguration)
+   at DotNetNuke.UI.Modules.ModuleControlFactory.LoadModuleControl(TemplateControl containerControl, ModuleInfo moduleConfiguration)
+   at DotNetNuke.UI.Modules.ModuleHost.LoadModuleControl()
+2012-07-23 17:54:15,688 [DeniseLeeson-PC][Thread:82][ERROR] DotNetNuke.UI.Modules.ModuleHost - FriendlyMessage="Error: DigitalLifeBooks is currently unavailable." ctrl="DotNetNuke.UI.Modules.ModuleControlBase" exc="System.Web.HttpParseException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'. ---> System.Web.HttpParseException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'. ---> System.Web.HttpException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.View'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.TemplateControl.LoadControl(VirtualPath virtualPath)
+   at DotNetNuke.UI.Modules.WebFormsModuleControlFactory.CreateModuleControl(TemplateControl containerControl, ModuleInfo moduleConfiguration)
+   at DotNetNuke.UI.Modules.ModuleControlFactory.LoadModuleControl(TemplateControl containerControl, ModuleInfo moduleConfiguration)
+   at DotNetNuke.UI.Modules.ModuleHost.LoadModuleControl()"
+2012-07-23 17:54:16,414 [DeniseLeeson-PC][Thread:82][ERROR] DotNetNuke.Framework.Reflection - Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.Components.FeatureController'.
+System.Web.HttpException (0x80004005): Could not load type 'DotNetNuke.Modules.DigitalLifeBooks.Components.FeatureController'.
+   at System.Web.Compilation.BuildManager.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase)
+   at DotNetNuke.Framework.Reflection.CreateType(String TypeName, String CacheKey, Boolean UseCache, Boolean IgnoreErrors)
+2012-07-23 17:56:15,608 [DeniseLeeson-PC][Thread:81][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 17:56:20,201 [DeniseLeeson-PC][Thread:66][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 17:57:04,621 [DeniseLeeson-PC][Thread:66][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:00:16,020 [DeniseLeeson-PC][Thread:82][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 18:00:40,955 [DeniseLeeson-PC][Thread:72][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:02:41,837 [DeniseLeeson-PC][Thread:67][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 18:03:34,510 [DeniseLeeson-PC][Thread:67][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 125
+   at DotNetNuke.Modules.DigitalLifeBooks.MainViewPresentation.GetChildData(String ChildId, String mid, String tabId, String action) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\MainViewPresentation.cs:line 26
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetChildData(String ChildId, String mid, String tabId, String pageAction) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 65
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 18:05:40,588 [DeniseLeeson-PC][Thread:35][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:05:50,746 [DeniseLeeson-PC][Thread:57][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 24
+   at DotNetNuke.Modules.DigitalLifeBooks.LoadControlsPresentation.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\LoadControlsPresentation.cs:line 28
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 49
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 18:06:25,579 [DeniseLeeson-PC][Thread:61][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:13:27,338 [DeniseLeeson-PC][Thread:61][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'middleintial'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at DotNetNuke.Modules.DigitalLifeBooks.Data.LoadControlsDao.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Data\LoadControlsDao.cs:line 24
+   at DotNetNuke.Modules.DigitalLifeBooks.LoadControlsPresentation.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Components\LoadControlsPresentation.cs:line 28
+   at DotNetNuke.Modules.DigitalLifeBooks.Services.EditController.GetParties() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\Services\EditController.cs:line 49
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClassd.<InvokeActionMethodWithFilters>b__a()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__4()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2012-07-23 18:13:33,919 [DeniseLeeson-PC][Thread:57][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:25:24,292 [DeniseLeeson-PC][Thread:63][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:27:15,743 [DeniseLeeson-PC][Thread:19][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:27:28,568 [DeniseLeeson-PC][Thread:18][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:29:01,730 [DeniseLeeson-PC][Thread:25][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 18:29:24,865 [DeniseLeeson-PC][Thread:25][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:03:04,918 [DeniseLeeson-PC][Thread:16][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:03:29,423 [DeniseLeeson-PC][Thread:7][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:05:21,349 [DeniseLeeson-PC][Thread:6][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:05:21,375 [DeniseLeeson-PC][Thread:6][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:05:21,409 [DeniseLeeson-PC][Thread:6][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Input+string+was+not+in+a+correct+format.&content=0
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:08:15,019 [DeniseLeeson-PC][Thread:23][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:09:52,589 [DeniseLeeson-PC][Thread:41][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:09:52,673 [DeniseLeeson-PC][Thread:41][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:09:52,681 [DeniseLeeson-PC][Thread:41][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Input+string+was+not+in+a+correct+format.&content=0
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:10:41,175 [DeniseLeeson-PC][Thread:38][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:15:59,018 [DeniseLeeson-PC][Thread:38][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:15:59,066 [DeniseLeeson-PC][Thread:38][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:15:59,072 [DeniseLeeson-PC][Thread:38][ERROR] System.Web.UI.Page - ~/Default.aspx?tabid=89&error=Input+string+was+not+in+a+correct+format.&content=0
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DotNetNuke.Modules.DigitalLifeBooks.View.btnUpload_Click(Object sender, EventArgs e) in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 104
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2012-07-23 21:16:48,433 [DeniseLeeson-PC][Thread:53][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:17:11,039 [DeniseLeeson-PC][Thread:38][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"

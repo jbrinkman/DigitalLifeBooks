@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #f04e30; }
+
+#txtSacwisNo{margin-top:2.5px; margin-bottom:2.5px;}
+#txtReferingAgency{margin:4.5px;}
+#txtMiddleInitial{width:25px; margin:2.5px;}
+#initial{margin-left:5px;}
+#lname{margin-left:5px;}
+.input{padding:5px;}
+#txtBirthDate{margin:5.5px; width:60px;}
+#txtCity{margin:2.5px; margin-bottom:5px;}
+#selAssociatedParties{margin:2.5px; margin-right:5px; width:120px; margin-top:5px;}
+#selRelationship{margin-left:2.5px; margin-right:5px; width:80px;}
+#selState{margin-left:2.5px;}
+#lstAssociatedParties{margin:5px;}
+#btnSave{margin-top:10px;}
+
+
+#childNav{margin:5px;}
+#childData{margin:5px;}
+#selChildren{width:120px; margin-right:5px;}
