@@ -26,7 +26,7 @@ $(function () {
             dataType: "text",
             success: function (response) {
                 document.getElementById('txtNewEventName').value = "";
-                ocument.getElementById('txtEventDescription').value = "";
+                document.getElementById('txtEventDescription').value = "";
                 document.getElementById('txtEventDate').value = "";
                 GetEvents();
 

@@ -772,3 +772,13 @@ System.FormatException: Input string was not in a correct format.
    at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
    at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
    at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:37:42,773 [DeniseLeeson-PC][Thread:119][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-23 21:38:52,434 [DeniseLeeson-PC][Thread:111][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 133
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
