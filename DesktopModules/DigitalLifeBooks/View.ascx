@@ -28,20 +28,32 @@
         <span id="lblState"></span>
         <a id="lnkEditChild" href="#">Edit Child</a>
     </div>
+</fieldset>
+<fieldset>
+    <h2>Create an Event</h2>
     <div>
         <label>New Event Name:</label>
         <input type="text" id="txtNewEventName" maxlength="50"/>
+    </div>
+    <div>
         <label>Event Description:</label>
         <textarea id="txtEventDescription" rows="5" cols="26"></textarea>
+    </div>
+    <div>
         <label>Event Date:</label>
         <input type="text" id="txtEventDate" maxlength="12"/>
         <input type="button" id="btnCreateNewEvent" value="Create" />
     </div>
 </fieldset>
 <fieldset>
+    <h2>Upload a document, picture, or video</h2>
     <div>
-        <asp:FileUpload id="fuContent" runat="server"/>
+        <label>Event</label>
         <select id="selEvent"></select>
+    </div>
+    <div>
+        <label>Upload File</label>
+        <asp:FileUpload id="fuContent" runat="server"/>
         <asp:Button id="btnUpload" runat="server" Text="Upload" OnClientClick="return populateHidEvent();"/>
     </div>
 </fieldset>
