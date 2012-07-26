@@ -12,7 +12,6 @@ $(function () {
 
     $('#selEvent').change(function () {
         setHiddenEventId();
-        alert(getHiddenEventId());
     });
 
 

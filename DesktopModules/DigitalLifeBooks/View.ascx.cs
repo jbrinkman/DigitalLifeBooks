@@ -121,13 +121,6 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
 
         #endregion
 
-        //public void lnkEditChild_Click(object sender, EventArgs e)
-        //{
-        //    string blah = EditUrl(this.TabId, "Edit", true, 
-        //        new string[]{"mId=" +this.ModuleId.ToString(), "childId=" + hidSelectedChildId.Value});
-        //    Response.Redirect(blah);
-        //}
-
         Entities.Modules.Actions.ModuleActionCollection IActionable.ModuleActions
         {
             get { throw new NotImplementedException(); }
