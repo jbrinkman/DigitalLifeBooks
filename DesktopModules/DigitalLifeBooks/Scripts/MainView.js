@@ -2,18 +2,38 @@
 
 $(function () {
     GetChildren();
-    GetEvents();
+    getAllChildElements();
+
     $("#txtEventDate").datepicker();
+
     $('#btnGo').click(function () {
-        GetChildData();
-        GetChildContent();
+        getAllChildElements();
+    });
+
+    $('#selEvent').change(function () {
+        setHiddenEventId();
+        alert(getHiddenEventId());
     });
 
 
     $('#btnCreateNewEvent').click(function () {
-        var selectList = document.getElementById('selChildren');
+        if (isNullOrEmptyString(getHiddenChildId())) {
+            alert("Must first select a child.");
+            return;
+        }
 
-        var parms = { ChildId: selectList[selectList.selectedIndex].value,
+        var eventTitle = document.getElementById('txtNewEventName').value;
+        var eventDescription = document.getElementById('txtEventDescription').value;
+        var eventDate = document.getElementById('txtEventDate').value;
+
+        if (isNullOrEmptyString(eventTitle) ||
+            isNullOrEmptyString(eventDescription) ||
+            isNullOrEmptyString(eventDate)) {
+            alert("Event title, description, and date are required.");
+            return;
+        }
+
+        var parms = { ChildId: getHiddenChildId(),
             EventTitle: document.getElementById('txtNewEventName').value,
             EventDescription: document.getElementById('txtEventDescription').value,
             EventDate: document.getElementById('txtEventDate').value
@@ -28,6 +48,7 @@ $(function () {
                 document.getElementById('txtNewEventName').value = "";
                 document.getElementById('txtEventDescription').value = "";
                 document.getElementById('txtEventDate').value = "";
+                GetChildContent();
                 GetEvents();
 
             },
@@ -41,6 +62,7 @@ $(function () {
 });
 
 function GetChildren() {
+    $("#selChildren option").remove();
     jQuery.ajax({
         type: "POST",
         url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildren",
@@ -74,9 +96,11 @@ function GetChildren() {
 }
 
 function GetChildContent() {
-    var selectList = document.getElementById('selChildren');
-
-    var parms = { ChildId: selectList[selectList.selectedIndex].value };
+    if (isNullOrEmptyString(getHiddenChildId())) {
+        alert("Must first select a child.");
+        return;
+    }
+    var parms = { ChildId: getHiddenChildId() };
     jQuery.ajax({
         type: "POST",
         url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildContent",
@@ -95,9 +119,15 @@ function GetChildContent() {
 }
 
 function GetEvents() {
-    var selectList = document.getElementById('selChildren');
+    $("#selEvent option").remove();
+    
+    if (isNullOrEmptyString(getHiddenChildId())) {
+        alert("Must first select a child.");
+        return;
+    }
+    
 
-    var parms = { ChildId: selectList[selectList.selectedIndex].value };
+    var parms = { ChildId: getHiddenChildId() };
     jQuery.ajax({
         type: "POST",
         url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetEvents",
@@ -126,8 +156,7 @@ function GetEvents() {
 
 
 function GetChildData() {
-    var selectList = document.getElementById('selChildren');
-    var parms = { ChildId: selectList[selectList.selectedIndex].value,
+    var parms = { ChildId: getHiddenChildId(),
                  mid: $('input[id$="hidMid"]').val(),
                  tabId: $('input[id$="hidTabId"]').val(),
                  pageAction: 'Redirect' };
@@ -138,7 +167,6 @@ function GetChildData() {
                      data: parms,
                      dataType: "json",
                      success: function (response) {
-                         $('input[id$="hidSelectedChildId"]').val(selectList[selectList.selectedIndex].value);
                          $('#lblChildName').text(response[0].ChildName);
                          $('#lblBirthDate').text(response[0].DOB);
                          $('#lblCity').text(response[0].City);
@@ -164,8 +192,36 @@ function determineError(response) {
 function ViewContent(link){
    alert("Pretend We Got Content");
 }
-function populateHidEvent() {
+
+
+function getHiddenEventId() {
+    return $('input[id$="hiddenSelectedEventId"]').val();
+}
+
+function setHiddenEventId() {
     var selectList = document.getElementById('selEvent');
     $('input[id$="hiddenSelectedEventId"]').val(selectList[selectList.selectedIndex].value);
-    return true;
 }
+
+
+function getHiddenChildId() {
+    return $('input[id$="hidSelectedChildId"]').val();
+}
+
+function setHiddenChildIdFromSelectedList() {
+    var selectList = document.getElementById('selChildren');
+    $('input[id$="hidSelectedChildId"]').val(selectList[selectList.selectedIndex].value);
+}
+
+function isNullOrEmptyString(txt) {
+    return (txt == null || txt.trim() == '')
+}
+
+function getAllChildElements() {
+    setHiddenChildIdFromSelectedList();
+    if (isNullOrEmptyString(getHiddenChildId())) { return; }
+    GetChildData();
+    GetChildContent();
+    GetEvents();
+}
+

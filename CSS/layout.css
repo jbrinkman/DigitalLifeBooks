@@ -1,0 +1,13 @@
+body, html { margin:0; font-family:Helvetica; }
+
+#container { width:1280px; margin:0 auto; }
+
+#top{ border-top:10px solid #F04E30; position: relative; }
+
+#mid{float:right; margin-left:10px; position:relative}
+
+#mid .links{ text-decoration:none; color:#F04E30; font-size:12px; padding-right:10px;}
+
+#bottom{height:97px; background:url(../images/Logo.png) no-repeat; margin-top:20px; position: relative;}
+
+#contentScroll{height:315px; background-color: #000;}

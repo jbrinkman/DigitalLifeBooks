@@ -169,6 +169,7 @@
     <Content Include="Scripts\Edit.js" />
     <Content Include="Scripts\MainView.js" />
     <Content Include="Test.htm" />
+    <None Include="github.info" />
     <Content Include="web.config" />
     <Content Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>

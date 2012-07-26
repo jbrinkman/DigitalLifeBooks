@@ -1,7 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body { font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #f04e30; }
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #f04e30;
+}
 
 #txtSacwisNo{margin-top:2.5px; margin-bottom:2.5px;}
 #txtReferingAgency{margin:4.5px;}
@@ -21,3 +26,7 @@ body { font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #f04e30;
 #childNav{margin:5px;}
 #childData{margin:5px;}
 #selChildren{width:120px; margin-right:5px;}
+
+ol{margin:4.5px;}
+
+

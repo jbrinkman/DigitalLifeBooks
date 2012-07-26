@@ -54,7 +54,7 @@
     <div>
         <label>Upload File</label>
         <asp:FileUpload id="fuContent" runat="server"/>
-        <asp:Button id="btnUpload" runat="server" Text="Upload" OnClientClick="return populateHidEvent();"/>
+        <asp:Button id="btnUpload" runat="server" Text="Upload" />
     </div>
 </fieldset>
 <fieldset>
