@@ -222,15 +222,6 @@
             To modify move field declaration from designer file to code-behind file.
             </remarks>
         </member>
-        <member name="F:DotNetNuke.Modules.DigitalLifeBooks.Edit.jsScript2">
-            <summary>
-            jsScript2 control.
-            </summary>
-            <remarks>
-            Auto-generated field.
-            To modify move field declaration from designer file to code-behind file.
-            </remarks>
-        </member>
         <member name="F:DotNetNuke.Modules.DigitalLifeBooks.Edit.hidPassedInChild">
             <summary>
             hidPassedInChild control.

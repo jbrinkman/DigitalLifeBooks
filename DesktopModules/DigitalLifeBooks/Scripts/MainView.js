@@ -14,7 +14,6 @@ $(function () {
         setHiddenEventId();
     });
 
-
     $('#btnCreateNewEvent').click(function () {
         if (isNullOrEmptyString(getHiddenChildId())) {
             alert("Must first select a child.");
@@ -33,9 +32,9 @@ $(function () {
         }
 
         var parms = { ChildId: getHiddenChildId(),
-            EventTitle: document.getElementById('txtNewEventName').value,
-            EventDescription: document.getElementById('txtEventDescription').value,
-            EventDate: document.getElementById('txtEventDate').value
+            EventTitle: eventTitle,
+            EventDescription: eventDescription,
+            EventDate: eventDate
         };
         jQuery.ajax({
             type: "POST",
@@ -156,28 +155,27 @@ function GetEvents() {
 
 function GetChildData() {
     var parms = { ChildId: getHiddenChildId(),
-                 mid: $('input[id$="hidMid"]').val(),
-                 tabId: $('input[id$="hidTabId"]').val(),
-                 pageAction: 'Redirect' };
-                 jQuery.ajax({
-                     type: "POST",
-                     url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildData",
-                     async: false,
-                     data: parms,
-                     dataType: "json",
-                     success: function (response) {
-                         $('#lblChildName').text(response[0].ChildName);
-                         $('#lblBirthDate').text(response[0].DOB);
-                         $('#lblCity').text(response[0].City);
-                         $('#lblState').text(response[0].State);
-                         $('#lnkEditChild').attr('href', response[0].Url);
-                     },
-                     error: function (httpRequest, textStatus, errorThrown) {
-                         determineError("Error: " + errorThrown);
-                     }
+    mid: $('input[id$="hidMid"]').val(),
+    tabId: $('input[id$="hidTabId"]').val(),
+    pageAction: 'Redirect' };
+    jQuery.ajax({
+        type: "POST",
+        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildData",
+        async: false,
+        data: parms,
+        dataType: "json",
+        success: function (response) {
+            $('#lblChildName').text(response[0].ChildName);
+            $('#lblBirthDate').text(response[0].DOB);
+            $('#lblCity').text(response[0].City);
+            $('#lblState').text(response[0].State);
+            $('#lnkEditChild').attr('href', response[0].Url);
+        },
+        error: function (httpRequest, textStatus, errorThrown) {
+            determineError("Error: " + errorThrown);
+        }
 
-                 });
-
+    });
 }
 
 function determineError(response) {
@@ -186,10 +184,6 @@ function determineError(response) {
         alert(response);
         return false;
     }
-}
-
-function ViewContent(link){
-   alert("Pretend We Got Content");
 }
 
 
@@ -218,6 +212,7 @@ function isNullOrEmptyString(txt) {
 
 function getAllChildElements() {
     setHiddenChildIdFromSelectedList();
+    setHiddenEventId();
     if (isNullOrEmptyString(getHiddenChildId())) { return; }
     GetChildData();
     GetChildContent();

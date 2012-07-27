@@ -127,7 +127,6 @@
       <DependentUpon>Edit.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Services\ChildController.cs" />
     <Compile Include="Services\DefaultRoutMapper.cs" />
     <Compile Include="Services\EditController.cs" />
     <Compile Include="Settings.ascx.designer.cs">
@@ -165,10 +164,8 @@
     <None Include="module.css" />
     <None Include="ReleaseNotes.txt" />
     <None Include="License.txt" />
-    <Content Include="Scripts\Common.js" />
     <Content Include="Scripts\Edit.js" />
     <Content Include="Scripts\MainView.js" />
-    <Content Include="Test.htm" />
     <None Include="github.info" />
     <Content Include="web.config" />
     <Content Include="web.Debug.config">

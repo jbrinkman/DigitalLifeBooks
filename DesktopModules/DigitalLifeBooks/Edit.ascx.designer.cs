@@ -22,15 +22,6 @@ namespace DotNetNuke.Modules.DigitalLifeBooks {
         protected global::DotNetNuke.Web.Client.ClientResourceManagement.DnnJsInclude jsScript;
         
         /// <summary>
-        /// jsScript2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::DotNetNuke.Web.Client.ClientResourceManagement.DnnJsInclude jsScript2;
-        
-        /// <summary>
         /// hidPassedInChild control.
         /// </summary>
         /// <remarks>

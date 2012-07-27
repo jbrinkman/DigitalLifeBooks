@@ -49,6 +49,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
         {
             InitializeComponent();
             base.OnInit(e);
+
         }
 
         private void InitializeComponent()
@@ -89,7 +90,10 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
 
         protected void btnUpload_Click(object sender, System.EventArgs e)
         {
+            
             if (fuContent.FileBytes.Length < 1) return;
+            if (string.IsNullOrWhiteSpace(hidSelectedChildId.Value)) return;
+            if (string.IsNullOrWhiteSpace(hiddenSelectedEventId.Value)) return;
 
             byte[] binaryFile = fuContent.FileBytes;
             string filepath = Server.MapPath(hidSelectedChildId.Value + "\\" + DateTime.Now.ToString("MMyyyy") + "\\");

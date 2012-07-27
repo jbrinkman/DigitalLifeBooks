@@ -2,7 +2,7 @@
 <%@ Register Namespace="DotNetNuke.Web.Client.ClientResourceManagement" Assembly="DotNetNuke.Web.Client" TagPrefix="DNN" %>
 
 <DNN:DnnJsInclude id="jsScript" runat="server" FilePath="~/DesktopModules/DigitalLifeBooks/Scripts/Edit.js"></DNN:DnnJsInclude>
-<DNN:DnnJsInclude id="jsScript2" runat="server" FilePath="~/DesktopModules/DigitalLifeBooks/Scripts/Common.js"></DNN:DnnJsInclude>
+
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.21/themes/base/jquery-ui.css" type="text/css" media="all" />
 <link rel="stylesheet" href="http://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all" />
 <link href="module.css" rel="stylesheet" type="text/css" />
