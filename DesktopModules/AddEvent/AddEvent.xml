@@ -25,12 +25,6 @@
             </summary>
         </member>
         <member name="T:DotNetNuke.Modules.AddEvent.View">
-            <summary>
-            ViewAddEvent class.
-            </summary>
-            <remarks>
-            Auto-generated class.
-            </remarks>
             -----------------------------------------------------------------------------
             <summary>
             The View class displays the content

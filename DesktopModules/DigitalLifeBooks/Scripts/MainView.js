@@ -133,6 +133,7 @@ function GetEvents() {
         data: parms,
         dataType: "json",
         success: function (response) {
+            var selectList = $('#selEvent');
             $.each(response, function (index, item) {
                 var option = document.createElement("option");
                 option.text = item.Text;
@@ -146,7 +147,7 @@ function GetEvents() {
             });
         },
         error: function (httpRequest, textStatus, errorThrown) {
-            determineError("Error: Failed to retrieve child.");
+            determineError("Error: Failed to retrieve child.");32
         }
     });
 
@@ -170,7 +171,7 @@ function GetChildData() {
             $('#lblCity').text(response[0].City);
             $('#lblState').text(response[0].State);
             $('#lnkEditChild').attr('href', response[0].Url);
-            $('#lnkAddEvent').attr('href', response[0].AddEventUrl);
+            
         },
         error: function (httpRequest, textStatus, errorThrown) {
             determineError("Error: " + errorThrown);

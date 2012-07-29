@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalLifeBooks", "DigitalLifeBooks.csproj", "{8A3296DB-308F-4EDD-B9C9-CCBE13295E93}"
 EndProject
-Project("{00000000-0000-0000-0000-000000000000}") = "AddEvent", "..\AddEvent\AddEvent.csproj", "{C0F8C27F-4843-4DD0-B600-997407FA08CD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{8A3296DB-308F-4EDD-B9C9-CCBE13295E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3296DB-308F-4EDD-B9C9-CCBE13295E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3296DB-308F-4EDD-B9C9-CCBE13295E93}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0F8C27F-4843-4DD0-B600-997407FA08CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0F8C27F-4843-4DD0-B600-997407FA08CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0F8C27F-4843-4DD0-B600-997407FA08CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0F8C27F-4843-4DD0-B600-997407FA08CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

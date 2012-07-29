@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.21/themes/base/jquery-ui.css" type="text/css" media="all" />
 <link rel="stylesheet" href="http://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all" />
 
+
 <div id="header"></div>
 <fieldset>
     <div>
@@ -46,7 +47,7 @@
     </div>
 </fieldset>
 <fieldset>
-    <h2>Upload a document, picture, or video<a id="lnkAddEvent" href="#">Add Event</a></h2>
+    <h2>Upload a document, picture, or video</h2>
     <div>
         <label>Event</label>
         <select id="selEvent"></select>

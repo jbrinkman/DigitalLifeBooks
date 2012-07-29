@@ -99,24 +99,6 @@
             To modify move field declaration from designer file to code-behind file.
             </remarks>
         </member>
-        <member name="F:DotNetNuke.Modules.DigitalLifeBooks.AddEvent.jsScript">
-            <summary>
-            jsScript control.
-            </summary>
-            <remarks>
-            Auto-generated field.
-            To modify move field declaration from designer file to code-behind file.
-            </remarks>
-        </member>
-        <member name="F:DotNetNuke.Modules.DigitalLifeBooks.AddEvent.hidPassedInChild">
-            <summary>
-            hidPassedInChild control.
-            </summary>
-            <remarks>
-            Auto-generated field.
-            To modify move field declaration from designer file to code-behind file.
-            </remarks>
-        </member>
         <member name="T:DotNetNuke.Modules.DigitalLifeBooks.Settings">
             <summary>
             Settings class.
