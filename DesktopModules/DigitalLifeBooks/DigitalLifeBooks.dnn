@@ -67,7 +67,7 @@
                     <controlKey>Edit</controlKey>
                     <controlSrc>DesktopModules/DigitalLifeBooks/Edit.ascx</controlSrc>
                     <supportsPartialRendering>False</supportsPartialRendering>
-                    <controlTitle>Edit Content</controlTitle>
+                    <controlTitle>Edit Child</controlTitle>
                     <controlType>Edit</controlType>
                     <iconFile />
                     <helpUrl />

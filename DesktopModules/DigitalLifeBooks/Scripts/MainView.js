@@ -170,6 +170,7 @@ function GetChildData() {
             $('#lblCity').text(response[0].City);
             $('#lblState').text(response[0].State);
             $('#lnkEditChild').attr('href', response[0].Url);
+            $('#lnkAddEvent').attr('href', response[0].AddEventUrl);
         },
         error: function (httpRequest, textStatus, errorThrown) {
             determineError("Error: " + errorThrown);
@@ -212,10 +213,10 @@ function isNullOrEmptyString(txt) {
 
 function getAllChildElements() {
     setHiddenChildIdFromSelectedList();
+    GetEvents();
     setHiddenEventId();
     if (isNullOrEmptyString(getHiddenChildId())) { return; }
     GetChildData();
     GetChildContent();
-    GetEvents();
 }
 
