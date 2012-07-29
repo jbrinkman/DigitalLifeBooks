@@ -11,9 +11,9 @@
 */
 
 using System;
-using DotNetNuke.Services.Exceptions;
 using System.Web.Services;
 using System.Web.UI.WebControls;
+using DotNetNuke.Services.Exceptions;
 using System.Collections.Generic;
 using DotNetNuke.Entities.Modules;
 using DotNetNuke.Entities.Modules.Actions;
@@ -83,10 +83,11 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
             btnUpload.Click += new EventHandler(btnUpload_Click);
         }
 
-        protected string GetEditURL(string ChildId)
+        protected string GetEditURL(string childId)
         { 
-            return EditUrl("ChildId",ChildId);
+            return EditUrl("ChildId",childId);
         }
+
 
         protected void btnUpload_Click(object sender, System.EventArgs e)
         {
@@ -119,6 +120,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
             {
                 ModuleActionCollection Actions = new ModuleActionCollection();
                 Actions.Add(GetNextActionID(), Localization.GetString("EditModule", this.LocalResourceFile), "", "", "", EditUrl(), false, SecurityAccessLevel.Edit, true, false);
+                //Actions.Add(GetNextActionID(), Localization.GetString("AddEventModule", this.LocalResourceFile), "", "", "", EditUrl(), false, SecurityAccessLevel.Edit, true, false);
                 return Actions;
             }
         }

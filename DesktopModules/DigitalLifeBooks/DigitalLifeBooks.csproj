@@ -113,7 +113,15 @@
     <Compile Include="Components\LoadControlsPresentation.cs" />
     <Compile Include="Components\MainViewPresentation.cs" />
     <Compile Include="Components\Utils.cs" />
+    <Compile Include="AddEvent.ascx.cs">
+      <DependentUpon>AddEvent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddEvent.ascx.designer.cs">
+      <DependentUpon>AddEvent.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Data\DataProvider.cs" />
+    <Content Include="AddEvent.ascx" />
     <Content Include="Documentation\Documentation.css" />
     <Content Include="Documentation\Documentation.html" />
     <Compile Include="Data\EditChildDao.cs" />
@@ -127,6 +135,7 @@
       <DependentUpon>Edit.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Services\AddEventController.cs" />
     <Compile Include="Services\DefaultRoutMapper.cs" />
     <Compile Include="Services\EditController.cs" />
     <Compile Include="Settings.ascx.designer.cs">
@@ -164,6 +173,7 @@
     <None Include="module.css" />
     <None Include="ReleaseNotes.txt" />
     <None Include="License.txt" />
+    <Content Include="Scripts\AddEvent.js" />
     <Content Include="Scripts\Edit.js" />
     <Content Include="Scripts\MainView.js" />
     <None Include="github.info" />
@@ -180,7 +190,9 @@
     <Content Include="Settings.ascx" />
     <Content Include="View.ascx" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="App_LocalResources\AddEvent.resx" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="'$(Solutions.VSVersion)' == '8.0'" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" Condition="'$(Solutions.VSVersion)' == '9.0'" />

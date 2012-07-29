@@ -46,7 +46,7 @@
     </div>
 </fieldset>
 <fieldset>
-    <h2>Upload a document, picture, or video</h2>
+    <h2>Upload a document, picture, or video<a id="lnkAddEvent" href="#">Add Event</a></h2>
     <div>
         <label>Event</label>
         <select id="selEvent"></select>
