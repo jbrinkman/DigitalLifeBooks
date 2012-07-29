@@ -120,6 +120,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
             {
                 ModuleActionCollection Actions = new ModuleActionCollection();
                 Actions.Add(GetNextActionID(), Localization.GetString("EditModule", this.LocalResourceFile), "", "", "", EditUrl(), false, SecurityAccessLevel.Edit, true, false);
+                //Actions.Add(GetNextActionID(), Localization.GetString("AddEventModule", this.LocalResourceFile), "", "", "", EditUrl(), false, SecurityAccessLevel.Edit, true, false);
                 return Actions;
             }
         }
