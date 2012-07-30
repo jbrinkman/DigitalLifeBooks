@@ -50,7 +50,7 @@
             <supportedFeatures />
             <moduleDefinitions>
               <moduleDefinition>
-                <friendlyName>DigitalLifeBooks</friendlyName>
+                <friendlyName>Digital Life Books</friendlyName>
                 <defaultCacheTime>0</defaultCacheTime>
                 <moduleControls>
                   <moduleControl>
