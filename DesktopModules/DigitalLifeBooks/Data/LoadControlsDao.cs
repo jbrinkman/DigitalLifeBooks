@@ -127,10 +127,14 @@ namespace DotNetNuke.Modules.DigitalLifeBooks.Data
             DataTable dt = new DataTable("dtChildData");
             dt.Load(rdr);
             string url = string.Empty;
+            string eventsURL = string.Empty;
             if (action == "Redirect")
             {
                url = Globals.NavigateURL(Int32.Parse(tabId), "Edit", new string[] { "mid=" + mid, "childId=" + ChildId });
                url = UrlUtils.PopUpUrl(url, null, Globals.GetPortalSettings(), false, false);
+
+               eventsURL = Globals.NavigateURL(Int32.Parse(tabId), "Events", new string[] { "mid=" + mid, "childId=" + ChildId });
+               eventsURL = UrlUtils.PopUpUrl(eventsURL, null, Globals.GetPortalSettings(), false, false);
             }
 
             Array list = (from row in dt.AsEnumerable()
@@ -144,7 +148,9 @@ namespace DotNetNuke.Modules.DigitalLifeBooks.Data
                               City = row["city"].ToString(),
                               State = row["state"].ToString(),
                               ReferingAgency = row["ReferingAgency"].ToString(),
-                              Url = url
+                              Url = url,
+                              EventsUrl = eventsURL
+                              
                           }).ToArray();
             rdr.Close();
             connection.Close();

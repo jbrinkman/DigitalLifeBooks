@@ -1,0 +1,290 @@
+2012-07-29 19:06:09,493 [DeniseLeeson-PC][Thread:70][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 130
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:06:22,464 [DeniseLeeson-PC][Thread:75][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 130
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:11:01,104 [DeniseLeeson-PC][Thread:87][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:13:47,901 [DeniseLeeson-PC][Thread:80][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:13:58,755 [DeniseLeeson-PC][Thread:37][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:15:52,151 [DeniseLeeson-PC][Thread:91][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:17:17,686 [DeniseLeeson-PC][Thread:87][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:21:04,878 [DeniseLeeson-PC][Thread:77][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:32:03,281 [DeniseLeeson-PC][Thread:65][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:34:58,660 [DeniseLeeson-PC][Thread:74][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:36:10,067 [DeniseLeeson-PC][Thread:52][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:36:17,296 [DeniseLeeson-PC][Thread:59][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:36:52,117 [DeniseLeeson-PC][Thread:52][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:37:19,351 [DeniseLeeson-PC][Thread:47][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:37:19,586 [DeniseLeeson-PC][Thread:51][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:37:43,674 [DeniseLeeson-PC][Thread:52][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:37:43,877 [DeniseLeeson-PC][Thread:51][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:38:06,123 [DeniseLeeson-PC][Thread:55][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:38:06,326 [DeniseLeeson-PC][Thread:71][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:38:25,094 [DeniseLeeson-PC][Thread:48][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:38:25,231 [DeniseLeeson-PC][Thread:71][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:38:33,368 [DeniseLeeson-PC][Thread:20][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:39:59,663 [DeniseLeeson-PC][Thread:61][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:41:19,961 [DeniseLeeson-PC][Thread:65][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:42:53,635 [DeniseLeeson-PC][Thread:52][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:43:28,667 [DeniseLeeson-PC][Thread:60][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:55:58,586 [DeniseLeeson-PC][Thread:48][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:58:14,423 [DeniseLeeson-PC][Thread:61][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:58:32,107 [DeniseLeeson-PC][Thread:63][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:59:22,325 [DeniseLeeson-PC][Thread:59][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 19:59:36,036 [DeniseLeeson-PC][Thread:62][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:00:46,456 [DeniseLeeson-PC][Thread:69][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:01:02,254 [DeniseLeeson-PC][Thread:69][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:01:13,100 [DeniseLeeson-PC][Thread:23][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:31:52,621 [DeniseLeeson-PC][Thread:5][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:32:02,563 [DeniseLeeson-PC][Thread:12][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:32:10,139 [DeniseLeeson-PC][Thread:9][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:32:32,640 [DeniseLeeson-PC][Thread:5][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:39:16,726 [DeniseLeeson-PC][Thread:34][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:39:49,743 [DeniseLeeson-PC][Thread:7][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:40:58,677 [DeniseLeeson-PC][Thread:34][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:41:31,863 [DeniseLeeson-PC][Thread:34][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:41:42,172 [DeniseLeeson-PC][Thread:33][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:41:45,091 [DeniseLeeson-PC][Thread:8][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:41:48,264 [DeniseLeeson-PC][Thread:31][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:41:52,807 [DeniseLeeson-PC][Thread:6][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:42:03,065 [DeniseLeeson-PC][Thread:9][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:49:43,981 [DeniseLeeson-PC][Thread:9][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:49:50,242 [DeniseLeeson-PC][Thread:37][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:50:16,367 [DeniseLeeson-PC][Thread:21][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:51:37,310 [DeniseLeeson-PC][Thread:24][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:51:42,208 [DeniseLeeson-PC][Thread:37][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:51:53,978 [DeniseLeeson-PC][Thread:39][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:52:02,483 [DeniseLeeson-PC][Thread:37][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:52:06,879 [DeniseLeeson-PC][Thread:12][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:52:10,358 [DeniseLeeson-PC][Thread:39][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:52:25,424 [DeniseLeeson-PC][Thread:7][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"
+2012-07-29 20:52:47,277 [DeniseLeeson-PC][Thread:41][ERROR] DotNetNuke.UI.Containers.ActionBase - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_actions_ascx" exc="System.NotImplementedException: The method or operation is not implemented.
+   at DotNetNuke.Modules.DigitalLifeBooks.View.DotNetNuke.Entities.Modules.IActionable.get_ModuleActions() in C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\DigitalLifeBooks\View.ascx.cs:line 132
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.LoadActions(HttpRequest request)
+   at DotNetNuke.UI.Modules.ModuleInstanceContext.get_Actions()
+   at DotNetNuke.UI.Containers.ActionBase.OnLoad(EventArgs e)"

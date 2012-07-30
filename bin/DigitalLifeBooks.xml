@@ -99,57 +99,23 @@
             To modify move field declaration from designer file to code-behind file.
             </remarks>
         </member>
-        <member name="T:DotNetNuke.Modules.DigitalLifeBooks.Settings">
+        <member name="F:DotNetNuke.Modules.DigitalLifeBooks.Events.jsScript">
             <summary>
-            Settings class.
+            jsScript control.
             </summary>
             <remarks>
-            Auto-generated class.
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
             </remarks>
-            -----------------------------------------------------------------------------
-            <summary>
-            The Settings class manages Module Settings
-            
-            Typically your settings control would be used to manage settings for your module.
-            There are two types of settings, ModuleSettings, and TabModuleSettings.
-            
-            ModuleSettings apply to all "copies" of a module on a site, no matter which page the module is on. 
-            
-            TabModuleSettings apply only to the current module on the current page, if you copy that module to
-            another page the settings are not transferred.
-            
-            If you happen to save both TabModuleSettings and ModuleSettings, TabModuleSettings overrides ModuleSettings.
-            
-            Below we have some examples of how to access these settings but you will need to uncomment to use.
-            
-            Because the control inherits from DigitalLifeBooksSettingsBase you have access to any custom properties
-            defined there, as well as properties from DNN such as PortalId, ModuleId, TabId, UserId and many more.
-            </summary>
-            -----------------------------------------------------------------------------
         </member>
-        <member name="T:DotNetNuke.Modules.DigitalLifeBooks.DigitalLifeBooksSettingsBase">
+        <member name="F:DotNetNuke.Modules.DigitalLifeBooks.Events.hidPassedInChild">
             <summary>
-            This base class can be used to define custom properties for multiple controls. 
-            An example module, DNNSimpleArticle (http://dnnsimplearticle.codeplex.com) uses this for an ArticleId
-            
-            Because the class inherits from SettingsModuleBase, properties like ModuleId, TabId, UserId, and others, 
-            are accessible to your module's controls (that inherity from DigitalLifeBooksSettingsBase
-            
+            hidPassedInChild control.
             </summary>
-        </member>
-        <member name="M:DotNetNuke.Modules.DigitalLifeBooks.Settings.LoadSettings">
-            -----------------------------------------------------------------------------
-            <summary>
-            LoadSettings loads the settings from the Database and displays them
-            </summary>
-            -----------------------------------------------------------------------------
-        </member>
-        <member name="M:DotNetNuke.Modules.DigitalLifeBooks.Settings.UpdateSettings">
-            -----------------------------------------------------------------------------
-            <summary>
-            UpdateSettings saves the modified settings to the Database
-            </summary>
-            -----------------------------------------------------------------------------
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
         </member>
         <member name="T:DotNetNuke.Modules.DigitalLifeBooks.Data.SqlDataProvider">
             -----------------------------------------------------------------------------
@@ -230,6 +196,16 @@
             Auto-generated field.
             To modify move field declaration from designer file to code-behind file.
             </remarks>
+        </member>
+        <member name="T:DotNetNuke.Modules.DigitalLifeBooks.DigitalLifeBooksSettingsBase">
+            <summary>
+            This base class can be used to define custom properties for multiple controls. 
+            An example module, DNNSimpleArticle (http://dnnsimplearticle.codeplex.com) uses this for an ArticleId
+            
+            Because the class inherits from SettingsModuleBase, properties like ModuleId, TabId, UserId, and others, 
+            are accessible to your module's controls (that inherity from DigitalLifeBooksSettingsBase
+            
+            </summary>
         </member>
     </members>
 </doc>

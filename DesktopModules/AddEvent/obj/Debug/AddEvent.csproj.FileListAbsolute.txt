@@ -1,6 +1,0 @@
-C:\inetpub\wwwroot\DigitalLifeBooks\bin\AddEvent.dll
-C:\inetpub\wwwroot\DigitalLifeBooks\bin\AddEvent.pdb
-C:\inetpub\wwwroot\DigitalLifeBooks\bin\AddEvent.xml
-C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\AddEvent\obj\Debug\ResolveAssemblyReference.cache
-C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\AddEvent\obj\Debug\AddEvent.dll
-C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\AddEvent\obj\Debug\AddEvent.pdb
