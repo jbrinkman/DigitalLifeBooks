@@ -51,7 +51,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks.Data
             cmd.Parameters.AddWithValue("@childId", childId);
             SqlDataReader rdr = cmd.ExecuteReader();
 
-            DataTable dt = new DataTable("dtParties");
+            DataTable dt = new DataTable("dtAssociations");
             dt.Load(rdr);
             rdr.Close();
             connection.Close();
@@ -91,12 +91,15 @@ namespace DotNetNuke.Modules.DigitalLifeBooks.Data
 
         internal List<ListItem> GetAllChildren()
         {
+            var roles = DotNetNuke.Entities.Users.UserController.GetCurrentUserInfo();
             var connection = (SqlConnection)GetConnection();
 
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = connection;
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.CommandText = "spDLB_GetAllChildren";
+            cmd.Parameters.AddWithValue("@firstname", roles.FirstName);
+            cmd.Parameters.AddWithValue("@lastname", roles.LastName);
             SqlDataReader rdr = cmd.ExecuteReader();
 
             DataTable dt = new DataTable("dtAllChildren");

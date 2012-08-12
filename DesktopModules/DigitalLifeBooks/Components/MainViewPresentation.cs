@@ -16,7 +16,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks
     {
         public static List<ListItem> GetChildren()
         {
-            var roles = DotNetNuke.Entities.Users.UserController.GetCurrentUserInfo();
+            //var roles = DotNetNuke.Entities.Users.UserController.GetCurrentUserInfo();
             //if(roles.admin) 
             return new LoadControlsDao().GetAllChildren();
         }

@@ -1,5 +1,9 @@
-﻿dleeson Smokey01
+﻿
+github.com => https://github.com/dleeson/DigitalLifeBooks
+id: dleeson psw: Smokey01
 
-http://digitallife.dnndev.me/LifeBooks.aspx
+site => http://digitallife.dnndev.me/LifeBooks.aspx
+id: host    psw: 1password!  Name: SuperUser Account Role: super user
+id: dleeson psw: Smokey01   Name: Denise Leeson      Role: registered user
 
-host 1password!
+Must first setup website IIS (C:\inetpub\wwwroot\DigitalLifeBooks) and set the permissions 

@@ -147,7 +147,7 @@ function GetEvents() {
             });
         },
         error: function (httpRequest, textStatus, errorThrown) {
-            determineError("Error: Failed to retrieve child.");32
+            determineError("Error: Failed to retrieve child.");
         }
     });
 
@@ -206,18 +206,23 @@ function getHiddenChildId() {
 
 function setHiddenChildIdFromSelectedList() {
     var selectList = document.getElementById('selChildren');
+    if (isNull(selectList) || selectList.length < 1) return;
     $('input[id$="hidSelectedChildId"]').val(selectList[selectList.selectedIndex].value);
 }
 
 function isNullOrEmptyString(txt) {
-    return (txt == null || txt.trim() == '')
+    return (txt == null || txt.trim() == '');
+}
+
+function isNull(obj) {
+    return (obj == null);
 }
 
 function getAllChildElements() {
     setHiddenChildIdFromSelectedList();
+    if (isNullOrEmptyString(getHiddenChildId())) { return; }
     GetEvents();
     setHiddenEventId();
-    if (isNullOrEmptyString(getHiddenChildId())) { return; }
     GetChildData();
     GetChildContent();
 }

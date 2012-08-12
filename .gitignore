@@ -1,4 +1,4 @@
-
+*.exe
 *.sln
 *.dll
 *.pdb
