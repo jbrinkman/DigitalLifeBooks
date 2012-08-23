@@ -50,7 +50,7 @@ namespace DotNetNuke.Modules.DigitalLifeBooks.Data
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.CommandText = "spDLB_DeleteAssociation";
             cmd.Parameters.AddWithValue("@childId", childId);
-            cmd.Parameters.AddWithValue("@peopleId", selectedPartyId);
+            cmd.Parameters.AddWithValue("@RelationshipId", selectedPartyId);
 
             cmd.ExecuteNonQuery();
 

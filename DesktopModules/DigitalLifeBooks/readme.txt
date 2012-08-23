@@ -8,5 +8,5 @@ on the edit view, the drop down (selAssociatedParties) of people, should filter 
 or at least not add them twice
 
 the delete on the edit page for lstAssociatedParties list  deleted everyone with the same name
-not sure if this is a desirable affect
+not sure if this is a desirable affect, maybe push the People.Id to client so we delete the correct association
 
