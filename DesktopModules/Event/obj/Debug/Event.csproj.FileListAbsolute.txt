@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Event.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Event.pdb
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Event.xml
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Event\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Event\obj\Debug\Event.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Event\obj\Debug\Event.pdb
