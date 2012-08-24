@@ -170,7 +170,9 @@
     <Content Include="Scripts\Events.js" />
     <Content Include="Scripts\MainView.js" />
     <None Include="github.info" />
-    <Content Include="web.config" />
+    <Content Include="web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </Content>

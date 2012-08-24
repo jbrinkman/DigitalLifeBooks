@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Child.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Child.pdb
+C:\inetpub\wwwroot\DigitalLifeBooks\bin\Child.xml
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Child\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Child\obj\Release\Child.dll
+C:\inetpub\wwwroot\DigitalLifeBooks\DesktopModules\Child\obj\Release\Child.pdb
