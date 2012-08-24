@@ -7,10 +7,10 @@ using System.Text;
 using System.Web.UI;
 using System.IO;
 using System.Web.UI.HtmlControls;
-using DotNetNuke.Modules.DigitalLifeBooks.Data;
+using DotNetNuke.Modules.Child.Data;
 using System.Data;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks
+namespace DotNetNuke.Modules.Child
 {
     public static class MainViewPresentation 
     {

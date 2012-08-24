@@ -4,14 +4,14 @@ using System.Linq;
 using System.Web;
 using DotNetNuke.Web.Services;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks.Services
+namespace DotNetNuke.Modules.Child.Services
 {
     public class DefaultRoutMapper: IServiceRouteMapper
     {
         public void RegisterRoutes(IMapRoute mapRouteManager)
         {
             // Service will be callable by /DesktopModules/DigitalLifeBooks/API/{controller}.ashx/{methodname}
-            mapRouteManager.MapRoute("DigitalLifeBooks","{controller}.ashx/{action}", new[] {"DotNetNuke.Modules.DigitalLifeBooks.Services"});
+            mapRouteManager.MapRoute("Child", "{controller}.ashx/{action}", new[] { "DotNetNuke.Modules.Child.Services" });
         }
     }
 }

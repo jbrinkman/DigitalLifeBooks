@@ -30,7 +30,7 @@ $(function () {
 
         jQuery.ajax({
             type: "POST",
-            url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/SaveChild",
+            url: "/DesktopModules/Child/API/Edit.ashx/SaveChild",
             async: false,
             data: jsonRequest,
             dataType: "text",
@@ -61,7 +61,7 @@ function associatedPartyAction(action, associatedParrtyId, relationship) {
     };
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/AssociatedPartyAction",
+        url: "/DesktopModules/Child/API/Edit.ashx/AssociatedPartyAction",
         async: false,
         data: jsonRequest,
         dataType: "text",
@@ -90,7 +90,7 @@ function determineError(response) {
 function GetParties() {
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetParties",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetParties",
         async: false,
         data: {},
         dataType: "json",
@@ -120,7 +120,7 @@ function GetParties() {
 function GetRelationships() {
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetRelationships",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetRelationships",
         async: false,
         data: {},
         contentType: "application/json; charset=utf-8",
@@ -152,7 +152,7 @@ function GetAssociations() {
     parms = { ChildId: document.getElementById('txtSacwisNo').value };
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetAssociations",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetAssociations",
         async: false,
         data: parms,
         dataType: "text",
@@ -179,7 +179,7 @@ function prepopulateChildData() {
 
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildData",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetChildData",
         async: false,
         data: parms,
         dataType: "json",
@@ -209,7 +209,7 @@ function prepopulateChildData() {
 function GetStates() {
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetStates",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetStates",
         async: false,
         data: {},
         contentType: "application/json; charset=utf-8",

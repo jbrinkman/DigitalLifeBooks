@@ -6,12 +6,11 @@
 <link rel="stylesheet" href="http://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all" />
 
 
-<div id="header"/>
+<div id="header" />
 <fieldset>
     <div>
         <div id="childNav">
             <input type="hidden" id="hidSelectedChildId" runat="server"/>
-            <input type="hidden" id="hiddenSelectedEventId" runat="server"/>
             <label>Select Child</label>
             <select id="selChildren" name="D1"></select>
             <input id="btnGo" type="button" value="Go"/>

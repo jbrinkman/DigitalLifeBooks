@@ -7,12 +7,12 @@ using System.Text;
 using System.Web.UI;
 using System.Web.UI.HtmlControls;
 using System.IO;
-using DotNetNuke.Modules.DigitalLifeBooks.Data;
+using DotNetNuke.Modules.Child.Data;
 using DotNetNuke.Common.Lists;
 using System.Web.Mvc;
 using System.Data;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks
+namespace DotNetNuke.Modules.Child
 {
     public static class LoadControlsPresentation
     {

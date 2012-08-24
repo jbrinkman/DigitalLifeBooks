@@ -3,7 +3,7 @@ using System.Web.Mvc;
 using DotNetNuke.Web.Services;
 using System.Collections.Generic;
 using System.Web.UI.WebControls;
-namespace DotNetNuke.Modules.DigitalLifeBooks.Services
+namespace DotNetNuke.Modules.Child.Services
 {
     public class EditController : DnnController
     {

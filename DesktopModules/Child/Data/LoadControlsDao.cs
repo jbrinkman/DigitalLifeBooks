@@ -10,7 +10,7 @@ using DotNetNuke.Common;
 using DotNetNuke.Common.Utilities;
 using DotNetNuke.Modules.Child.Data;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks.Data
+namespace DotNetNuke.Modules.Child.Data
 {
     public class LoadControlsDao : DataProvider
     {

@@ -4,57 +4,57 @@ $(function () {
     GetChildren();
     getAllChildElements();
 
-    $("#txtEventDate").datepicker();
+//    $("#txtEventDate").datepicker();
 
     $('#btnGo').click(function () {
         getAllChildElements();
     });
 
-    $('#selEvent').change(function () {
-        setHiddenEventId();
-    });
+//    $('#selEvent').change(function () {
+//        setHiddenEventId();
+//    });
 
-    $('#btnCreateNewEvent').click(function () {
-        if (isNullOrEmptyString(getHiddenChildId())) {
-            alert("Must first select a child.");
-            return;
-        }
+//    $('#btnCreateNewEvent').click(function () {
+//        if (isNullOrEmptyString(getHiddenChildId())) {
+//            alert("Must first select a child.");
+//            return;
+//        }
 
-        var eventTitle = document.getElementById('txtNewEventName').value;
-        var eventDescription = document.getElementById('txtEventDescription').value;
-        var eventDate = document.getElementById('txtEventDate').value;
+//        var eventTitle = document.getElementById('txtNewEventName').value;
+//        var eventDescription = document.getElementById('txtEventDescription').value;
+//        var eventDate = document.getElementById('txtEventDate').value;
 
-        if (isNullOrEmptyString(eventTitle) ||
-            isNullOrEmptyString(eventDescription) ||
-            isNullOrEmptyString(eventDate)) {
-            alert("Event title, description, and date are required.");
-            return;
-        }
+//        if (isNullOrEmptyString(eventTitle) ||
+//            isNullOrEmptyString(eventDescription) ||
+//            isNullOrEmptyString(eventDate)) {
+//            alert("Event title, description, and date are required.");
+//            return;
+//        }
 
-        var parms = { ChildId: getHiddenChildId(),
-            EventTitle: eventTitle,
-            EventDescription: eventDescription,
-            EventDate: eventDate
-        };
-        jQuery.ajax({
-            type: "POST",
-            url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/InsertEvent",
-            async: false,
-            data: parms,
-            dataType: "text",
-            success: function (response) {
-                document.getElementById('txtNewEventName').value = "";
-                document.getElementById('txtEventDescription').value = "";
-                document.getElementById('txtEventDate').value = "";
-                GetChildContent();
-                GetEvents();
+//        var parms = { ChildId: getHiddenChildId(),
+//            EventTitle: eventTitle,
+//            EventDescription: eventDescription,
+//            EventDate: eventDate
+//        };
+//        jQuery.ajax({
+//            type: "POST",
+//            url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/InsertEvent",
+//            async: false,
+//            data: parms,
+//            dataType: "text",
+//            success: function (response) {
+//                document.getElementById('txtNewEventName').value = "";
+//                document.getElementById('txtEventDescription').value = "";
+//                document.getElementById('txtEventDate').value = "";
+//                GetChildContent();
+//                GetEvents();
 
-            },
-            error: function (httpRequest, textStatus, errorThrown) {
-                determineError("Error: Failed to retrieve child.");
-            }
-        });
-    });
+//            },
+//            error: function (httpRequest, textStatus, errorThrown) {
+//                determineError("Error: Failed to retrieve child.");
+//            }
+//        });
+//    });
 
 
 });
@@ -63,7 +63,7 @@ function GetChildren() {
     $("#selChildren option").remove();
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildren",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetChildren",
         async: false,
         data: {},
         dataType: "json",
@@ -101,7 +101,7 @@ function GetChildContent() {
     var parms = { ChildId: getHiddenChildId() };
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildContent",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetChildContent",
         async: false,
         data: parms,
         dataType: "text",
@@ -116,42 +116,42 @@ function GetChildContent() {
 
 }
 
-function GetEvents() {
-    $("#selEvent option").remove();
-    
-    if (isNullOrEmptyString(getHiddenChildId())) {
-        alert("Must first select a child.");
-        return;
-    }
-    
+//function GetEvents() {
+//    $("#selEvent option").remove();
+//    
+//    if (isNullOrEmptyString(getHiddenChildId())) {
+//        alert("Must first select a child.");
+//        return;
+//    }
+//    
 
-    var parms = { ChildId: getHiddenChildId() };
-    jQuery.ajax({
-        type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetEvents",
-        async: false,
-        data: parms,
-        dataType: "json",
-        success: function (response) {
-            var selectList = $('#selEvent');
-            $.each(response, function (index, item) {
-                var option = document.createElement("option");
-                option.text = item.Text;
-                option.value = item.Value;
-                var selectList = $('select#selEvent');
-                selectList.append(option);
+//    var parms = { ChildId: getHiddenChildId() };
+//    jQuery.ajax({
+//        type: "POST",
+//        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetEvents",
+//        async: false,
+//        data: parms,
+//        dataType: "json",
+//        success: function (response) {
+//            var selectList = $('#selEvent');
+//            $.each(response, function (index, item) {
+//                var option = document.createElement("option");
+//                option.text = item.Text;
+//                option.value = item.Value;
+//                var selectList = $('select#selEvent');
+//                selectList.append(option);
 
-                if (item.Selected == true) {
-                    selectList.selectedIndex = index;
-                }
-            });
-        },
-        error: function (httpRequest, textStatus, errorThrown) {
-            determineError("Error: Failed to retrieve child.");
-        }
-    });
+//                if (item.Selected == true) {
+//                    selectList.selectedIndex = index;
+//                }
+//            });
+//        },
+//        error: function (httpRequest, textStatus, errorThrown) {
+//            determineError("Error: Failed to retrieve child.");
+//        }
+//    });
 
-}
+//}
 
 
 function GetChildData() {
@@ -161,7 +161,7 @@ function GetChildData() {
     pageAction: 'Redirect' };
     jQuery.ajax({
         type: "POST",
-        url: "/DesktopModules/DigitalLifeBooks/API/Edit.ashx/GetChildData",
+        url: "/DesktopModules/Child/API/Edit.ashx/GetChildData",
         async: false,
         data: parms,
         dataType: "json",
@@ -171,7 +171,7 @@ function GetChildData() {
             $('#lblCity').text(response[0].City);
             $('#lblState').text(response[0].State);
             $('#lnkEditChild').attr('href', response[0].Url);
-            $('#lnkAddEvent').attr('href', response[0].EventsUrl);
+           //  $('#lnkAddEvent').attr('href', response[0].EventsUrl);
 
         },
         error: function (httpRequest, textStatus, errorThrown) {
@@ -190,14 +190,14 @@ function determineError(response) {
 }
 
 
-function getHiddenEventId() {
-    return $('input[id$="hiddenSelectedEventId"]').val();
-}
+//function getHiddenEventId() {
+//    return $('input[id$="hiddenSelectedEventId"]').val();
+//}
 
-function setHiddenEventId() {
-    var selectList = document.getElementById('selEvent');
-    $('input[id$="hiddenSelectedEventId"]').val(selectList[selectList.selectedIndex].value);
-}
+//function setHiddenEventId() {
+//    var selectList = document.getElementById('selEvent');
+//    $('input[id$="hiddenSelectedEventId"]').val(selectList[selectList.selectedIndex].value);
+//}
 
 
 function getHiddenChildId() {
@@ -221,8 +221,8 @@ function isNull(obj) {
 function getAllChildElements() {
     setHiddenChildIdFromSelectedList();
     if (isNullOrEmptyString(getHiddenChildId())) { return; }
-    GetEvents();
-    setHiddenEventId();
+    // GetEvents();
+    // setHiddenEventId();
     GetChildData();
     GetChildContent();
 }

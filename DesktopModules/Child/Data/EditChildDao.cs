@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using System.Data;
 using DotNetNuke.Modules.Child.Data;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks.Data
+namespace DotNetNuke.Modules.Child.Data
 {
     public class EditChildDao : DataProvider
     {

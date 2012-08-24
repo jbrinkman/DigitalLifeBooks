@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks
+namespace DotNetNuke.Modules.Child
 {
     public static class Utils
     {

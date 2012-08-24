@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using DotNetNuke.Modules.DigitalLifeBooks.Data;
+using DotNetNuke.Modules.Child.Data;
 
-namespace DotNetNuke.Modules.DigitalLifeBooks
+namespace DotNetNuke.Modules.Child
 {
 
     public static class ChildDetails 
